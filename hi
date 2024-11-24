@@ -1,0 +1,5 @@
+class hi{
+    publi static void public static void main(String[] args) {
+        System.out.println("iam arvind");
+    }
+}
